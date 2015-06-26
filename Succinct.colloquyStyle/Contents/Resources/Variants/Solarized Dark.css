@@ -103,7 +103,7 @@ a:focus {
   /* Separator between names and test */
   border-right: 1px solid #1D434C;
   
-  background-color: #073642;
+  background-color: #002b36;
   font-weight: bold;
   text-align: right;
   /*text-shadow: white 1px 1px 0;*/
@@ -153,12 +153,12 @@ a:focus {
 
 .message--outgoing .message__sender {
   /* Background of field containing your own nickname */
-  background-color: #002b36;
+  background-color: #073642;
 }
 
 .event + .message--outgoing .message__sender, .message--incoming + .message--outgoing .message__sender {
   /* Top outline of own message */
-  border-top: 1px solid #073642;
+  border-top: 1px solid #002b36;
 }
 
 /* Comment this out to have names in front of all messages */
