@@ -306,7 +306,7 @@ a:focus {
 
 /* Color your own name will appear as */
 .colorself, .colorself a {
-    color: #d33682 !important;
+    color: #6c71c4 !important; /* Solarized violet */
 }
 
 /* These are all the possible colors that other people */
