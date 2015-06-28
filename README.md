@@ -48,7 +48,7 @@ Editing Instructions:
 Again, when I found the original theme, I wanted to change a lot of the colors and appearance myself,
 beyond what Colloquy allows you to do in the preferences menu. (Plus it's 
 [bugged](http://colloquy.info/project/ticket/4307)). Here are instructions to tweak
-the themes to your liking if you've already download them.
+the themes to your liking if you've already downloaded them.
 
 1. Locate the file. (Open a Finder window and, from the "Go" menu, select "Go to Folder..."
 and enter: ```/Library/Application Support/Colloquy/Styles```
