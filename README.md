@@ -5,7 +5,7 @@ Three reasons to love Succinct
 2. Emphasizes what you need.
 3. De-emphasizes what you don’t.
 
-Changed the original Succinct for [Colloquy](http://colloquy.info/) theme with some color and appearance tweaks of my own, reducing contrast and improving readability. Also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized. Unique nickname coloring comes courtesy of
+I changed the original Succinct for [Colloquy](http://colloquy.info/) theme with some color and appearance tweaks of my own, reducing contrast and improving readability. Also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized. Unique nickname coloring comes courtesy of
 [willasaywhat](https://github.com/willasaywhat).
 
 Default:
