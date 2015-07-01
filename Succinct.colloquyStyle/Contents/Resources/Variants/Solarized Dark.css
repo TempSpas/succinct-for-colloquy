@@ -312,7 +312,7 @@ a:focus {
 /* These are all the possible colors that other people */
 /* in the channel could be, determined later by hashing the */
 /* host. */
-.color0, .color0  > * { color: #213240 !important; } /* 213240 */
+.color0, .color0  > * { color: #213240 !important; } /* Bluish dark gray */
 .color1, .color1  > * { color: #EC1559 !important; } /* Pink */
 .color2, .color2  > * { color: #FAF93C !important; } /* Yellow */
 .color3, .color3  > * { color: #009900 !important; } /* Green, formerly #561420 */
