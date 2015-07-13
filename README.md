@@ -1,12 +1,15 @@
 Three reasons to love Succinct
--------------------------------
+------------------------------
 
 1. Simple, clean design.
 2. Emphasizes what you need.
 3. De-emphasizes what you don’t.
 
-I changed the original Succinct for [Colloquy](http://colloquy.info/) theme with some color and appearance tweaks of my own, reducing contrast and improving readability. Also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized. Unique nickname coloring comes courtesy of
-[willasaywhat](https://github.com/willasaywhat).
+Succinct is a theme for the [Colloquy IRC client](http://colloquy.info/) for Mac OS X. The goal of this fork is to add some color and appearance tweaks of my own, reducing contrast and improving chat room readability. Changes to usability include:
+* Unique nickname coloring (courtesy of [willasaywhat](https://github.com/willasaywhat))
+* Getting rid of text shadows
+* Member links and URLs maintaining color in chat events
+I also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized.
 
 Default:
 
@@ -67,6 +70,7 @@ Contributors
 * Claudio Perez Gamayo <http://80kv.com>: Created first-draft design based on 37
   Signal's Campfire web application.
 * Joel Watson <https://github.com/watsonian>
+* John Albin <https://github.com/JohnAlbin/succinct-for-colloquy>: [Original fork](https://github.com/JohnAlbin/succinct-for-colloquy)
 * Willa Riggins <https://github.com/willasaywhat>
 
 Additional bugfixes, usability improvements, and design comments are welcome!
