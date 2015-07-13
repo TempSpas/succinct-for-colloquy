@@ -1,10 +1,10 @@
-Succinct 2.4, 2015-06-24
+Succinct 2.4, 2015-06-24 (by TempSpas)
 ------------------------
-- Added two themes, Solarized and Solarized Dark
+- Added two theme variants, Solarized and Solarized Dark
 - Made many minor tweaks to the default theme, including:
-	- Lowered contrast between font and text
+	- Lowering contrast between background and text
 	- Getting rid of odd shadows on some text
-	- Nicknames and links retain coloring in events
+	- Nicknames and links retain coloring in channel events
 - Added unique nickname coloring
 - Added descriptive comments for end user tweaking
 
