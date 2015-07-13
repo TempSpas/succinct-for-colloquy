@@ -10,16 +10,16 @@ I changed the original Succinct for [Colloquy](http://colloquy.info/) theme with
 
 Default:
 
-
 <img src="https://raw.githubusercontent.com/TempSpas/succinct-for-colloquy/master/Default.png" alt="Screenshot" />
 
 Solarized:
 
 ![Screenshot](Solarized.png)
+<img src="https://raw.githubusercontent.com/TempSpas/succinct-for-colloquy/master/Solarized.png" alt="Screenshot" />
 
 Solarized Dark:
 
-![Screenshot](Dark.png)
+<img src="https://raw.githubusercontent.com/TempSpas/succinct-for-colloquy/master/Dark.png" alt="Screenshot" />
 
 Note: Because of the plethora of colors possible for nicknames, some may not look right
 on certain themes. It's a work in progress, I'm still going through and changing them
