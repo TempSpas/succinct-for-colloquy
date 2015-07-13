@@ -10,7 +10,7 @@ Succinct is a theme for the [Colloquy IRC client](http://colloquy.info/) for Mac
 * Getting rid of text shadows
 * Member links and URLs maintaining color in chat events
 
-I also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized, giving the theme a decent "night mode." Aside from these changes, I added descriptive comments where I could to allow end users to seek and change any part of it, much like I did when discovering the style for the first time.
+I also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized, giving the theme another light option and a decent "night mode." Aside from these changes, I added descriptive comments where I could to allow end users to seek and change any part of it, much like I did when I discovered the style for the first time.
 
 Default:
 
