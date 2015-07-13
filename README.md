@@ -9,7 +9,8 @@ Succinct is a theme for the [Colloquy IRC client](http://colloquy.info/) for Mac
 * Unique nickname coloring (courtesy of [willasaywhat](https://github.com/willasaywhat))
 * Getting rid of text shadows
 * Member links and URLs maintaining color in chat events
-I also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized.
+
+I also added two variants, Solarized and Solarized Dark, based on http://ethanschoonover.com/solarized, giving the theme a decent "night mode." Aside from these changes, I added descriptive comments where I could to allow end users to seek and change any part of it, much like I did when discovering the style for the first time.
 
 Default:
 
@@ -70,10 +71,10 @@ Contributors
 * Claudio Perez Gamayo <http://80kv.com>: Created first-draft design based on 37
   Signal's Campfire web application.
 * Joel Watson <https://github.com/watsonian>
-* John Albin <https://github.com/JohnAlbin/succinct-for-colloquy>: [Original fork](https://github.com/JohnAlbin/succinct-for-colloquy)
+* John Albin <https://github.com/JohnAlbin>
 * Willa Riggins <https://github.com/willasaywhat>
 
 Additional bugfixes, usability improvements, and design comments are welcome!
 Just use GitHub to fork and make pull requests.
 
-Original: <https://github.com/JohnAlbin/succinct-for-colloquy>
+Forked from John Albin's original: <https://github.com/JohnAlbin/succinct-for-colloquy>
