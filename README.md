@@ -43,7 +43,7 @@ exactly like me when I found the original. Steps to download:
 4. Drag "Succinct.colloquyStyle" there.
 5. Type ```/reload styles``` into Colloquy. (If this fails, restart Colloquy).
 
-Variants of Succinct will now be a selectable theme in the Styles dropdown menu.
+Variants of Succinct will now be selectable themes in the Styles dropdown menu.
 
 Editing Instructions:
 ---------------------
