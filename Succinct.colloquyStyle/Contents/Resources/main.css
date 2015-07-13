@@ -316,75 +316,75 @@ a:focus {
 /* These are all the possible colors that other people */
 /* in the channel could be, determined later by hashing the */
 /* host. */
-.color0, .color0  > * { color: #213240 !important; }
-.color1, .color1  > * { color: #EC1559 !important; }
-.color2, .color2  > * { color: #FAF93C !important; }
-.color3, .color3  > * { color: #561420 !important; }
-.color4, .color4  > * { color: #821122 !important; }
-.color5, .color5  > * { color: #333333 !important; }
-.color6, .color6  > * { color: #D31D8C !important; }
-.color7, .color7  > * { color: #BCDD11 !important; }
-.color8, .color8  > * { color: #005381 !important; }
-.color9, .color9  > * { color: #0D813D !important; }
-.color10, .color10   > * { color: #F7A700 !important; }
-.color11, .color11   > * { color: #3F3F30 !important; }
-.color12, .color12   > * { color: #330000 !important; }
-.color13, .color13   > * { color: #670000 !important; }
-.color14, .color14   > * { color: #A31B00 !important; }
-.color15, .color15   > * { color: #C24400 !important; }
-.color16, .color16   > * { color: #DD6100 !important; }
-.color17, .color17   > * { color: #4B4C3C !important; }
-.color18, .color18   > * { color: #57470C !important; }
-.color19, .color19   > * { color: #2B6088 !important; }
-.color20, .color20   > * { color: #0A55A3 !important; }
-.color21, .color21   > * { color: #006EBA !important; }
-.color22, .color22   > * { color: #8D1C0C !important; }
-.color23, .color23   > * { color: #FD1B15 !important; }
-.color24, .color24   > * { color: #FF6D06 !important; }
-.color25, .color25   > * { color: #3EA63B !important; }
-.color26, .color26   > * { color: #4F4F4F !important; }
-.color27, .color27   > * { color: #96D377 !important; }
-.color28, .color28   > * { color: #7BF53D !important; }
-.color29, .color29   > * { color: #991D5E !important; }
-.color30, .color30   > * { color: #C42616 !important; }
-.color31, .color31   > * { color: #5050C1 !important; }
-.color32, .color32   > * { color: #5088C1 !important; }
-.color33, .color33   > * { color: #561420 !important; }
-.color34, .color34   > * { color: #821122 !important; }
-.color35, .color35   > * { color: #333333 !important; }
-.color36, .color36   > * { color: #EC1559 !important; }
-.color37, .color37   > * { color: #213240 !important; }
-.color38, .color38   > * { color: #193D55 !important; }
-.color39, .color39   > * { color: #0D813D !important; }
-.color40, .color40   > * { color: #193D55 !important; }
-.color41, .color41   > * { color: #C0000B !important; }
-.color42, .color42   > * { color: #FF6800 !important; }
-.color43, .color43   > * { color: #662B2D !important; }
-.color44, .color44   > * { color: #B03C0D !important; }
-.color45, .color45   > * { color: #E7371A !important; }
-.color46, .color46   > * { color: #EAB239 !important; }
-.color47, .color47   > * { color: #193D55 !important; }
-.color48, .color48   > * { color: #4D7086 !important; }
-.color49, .color49   > * { color: #2B877E !important; }
-.color50, .color50   > * { color: #8A8C81 !important; }
-.color51, .color51   > * { color: #5F8183 !important; }
-.color52, .color52   > * { color: #C6064F !important; }
-.color53, .color53   > * { color: #F93981 !important; }
-.color54, .color54   > * { color: #E7C51B !important; }
-.color55, .color55   > * { color: #8173B1 !important; } /* Nice dark lavendar */
-.color56, .color56   > * { color: #000014 !important; }
-.color57, .color57   > * { color: #2A3B63 !important; }
-.color58, .color58   > * { color: #717C8C !important; }
-.color59, .color59   > * { color: #F56203 !important; }
-.color60, .color60   > * { color: #FF0000 !important; }
-.color61, .color61   > * { color: #D24B00 !important; }
-.color62, .color62   > * { color: #90620C !important; }
-.color63, .color63   > * { color: #225928 !important; }
-.color64, .color64   > * { color: #3D367D !important; }
-.color65, .color65   > * { color: #5D236E !important; }
-.color66, .color66   > * { color: #D12C8B !important; }
-.color67, .color67   > * { color: #991441 !important; }
-.color68, .color68   > * { color: #585858 !important; }
-.color69, .color69   > * { color: #678090 !important; }
-.color70, .color70   > * { color: #6F9DBE !important; }
+.color0, .color0  > * { color: #213240 !important; } /* Bluish dark gray */
+.color1, .color1  > * { color: #EC1559 !important; } /* Pink */
+.color2, .color2  > * { color: #FAF93C !important; } /* Yellow */
+.color3, .color3  > * { color: #009900 !important; } /* Green */
+.color4, .color4  > * { color: #821122 !important; } /* Maroon */
+.color5, .color5  > * { color: #5C85FF !important; } /* Light blue */
+.color6, .color6  > * { color: #D31D8C !important; } /* Pink/magenta */
+.color7, .color7  > * { color: #BCDD11 !important; } /* Sickly yellow green */
+.color8, .color8  > * { color: #005381 !important; } /* Dark blue grayish */
+.color9, .color9  > * { color: #0D813D !important; } /* Green */
+.color10, .color10   > * { color: #F7A700 !important; } /* Orange */
+.color11, .color11   > * { color: #9966FF !important; } /* Purplish periwnkle */
+.color12, .color12   > * { color: #0099CC !important; } /* Nice middle blue */
+.color13, .color13   > * { color: #670000 !important; } /* Darker brownish red */
+.color14, .color14   > * { color: #A31B00 !important; } /* Brownish red */
+.color15, .color15   > * { color: #C24400 !important; } /* Lighter orangish brown */
+.color16, .color16   > * { color: #DD6100 !important; } /* Even lighter orangish brown */
+.color17, .color17   > * { color: #4B4C3C !important; } /* Gray */
+.color18, .color18   > * { color: #57470C !important; } /* Gross brown / brown yellow */
+.color19, .color19   > * { color: #2B6088 !important; } /* Blue */
+.color20, .color20   > * { color: #0A55A3 !important; } /* Blue */
+.color21, .color21   > * { color: #006EBA !important; } /* Blue */
+.color22, .color22   > * { color: #8D1C0C !important; } /* Brownish red */
+.color23, .color23   > * { color: #FD1B15 !important; } /* Red */
+.color24, .color24   > * { color: #FF6D06 !important; } /* Orange */
+.color25, .color25   > * { color: #3EA63B !important; } /* Green */
+.color26, .color26   > * { color: #4F4F4F !important; } /* Gray */
+.color27, .color27   > * { color: #96D377 !important; } /* Cool lime green */
+.color28, .color28   > * { color: #7BF53D !important; } /* Neon green */
+.color29, .color29   > * { color: #991D5E !important; } /* Magenta */
+.color30, .color30   > * { color: #C42616 !important; } /* Redish orange */
+.color31, .color31   > * { color: #5050C1 !important; } /* Nice purple blue */
+.color32, .color32   > * { color: #5088C1 !important; } /* Marine */
+.color33, .color33   > * { color: #561420 !important; } /* Dark brownish red */
+.color34, .color34   > * { color: #821122 !important; } /* A little lighter */
+.color35, .color35   > * { color: #333333 !important; } /* Gray */
+.color36, .color36   > * { color: #EC1559 !important; } /* Darker pink */
+.color37, .color37   > * { color: #213240 !important; } /* Slightly bluish gray */
+.color38, .color38   > * { color: #193D55 !important; } /* Blue gray */
+.color39, .color39   > * { color: #0D813D !important; } /* Forest green */
+.color40, .color40   > * { color: #193D55 !important; } /* Blue gray */
+.color41, .color41   > * { color: #C0000B !important; } /* Dark red */
+.color42, .color42   > * { color: #FF6800 !important; } /* Orange */
+.color43, .color43   > * { color: #662B2D !important; } /* Brown */
+.color44, .color44   > * { color: #B03C0D !important; } /* Orange brown */
+.color45, .color45   > * { color: #E7371A !important; } /* Orange */
+.color46, .color46   > * { color: #EAB239 !important; } /* Goldish yellow */
+.color47, .color47   > * { color: #193D55 !important; } /* Blue gray */
+.color48, .color48   > * { color: #4D7086 !important; } /* Dark ice */
+.color49, .color49   > * { color: #2B877E !important; } /* Teal */
+.color50, .color50   > * { color: #8A8C81 !important; } /* Neutral light gray */
+.color51, .color51   > * { color: #5F8183 !important; } /* Bluer light gray */
+.color52, .color52   > * { color: #C6064F !important; } /* Pinkish magenta */
+.color53, .color53   > * { color: #F93981 !important; } /* Pink */
+.color54, .color54   > * { color: #E7C51B !important; } /* Gold yellow */
+.color55, .color55   > * { color: #8173B1 !important; } /* Nice dark lavender */
+.color56, .color56   > * { color: #000014 !important; } /* Black */
+.color57, .color57   > * { color: #2A3B63 !important; } /* Navy */
+.color58, .color58   > * { color: #717C8C !important; } /* Icy gray */
+.color59, .color59   > * { color: #F56203 !important; } /* Orange */
+.color60, .color60   > * { color: #FF0000 !important; } /* Red */
+.color61, .color61   > * { color: #D24B00 !important; } /* Brown orange */
+.color62, .color62   > * { color: #90620C !important; } /* Brown */
+.color63, .color63   > * { color: #225928 !important; } /* Dark green */
+.color64, .color64   > * { color: #3D367D !important; } /* Grayer Purple */
+.color65, .color65   > * { color: #5D236E !important; } /* Purple */
+.color66, .color66   > * { color: #D12C8B !important; } /* Darkish pink */
+.color67, .color67   > * { color: #991441 !important; } /* Darker magenta */
+.color68, .color68   > * { color: #585858 !important; } /* Gray */
+.color69, .color69   > * { color: #678090 !important; } /* Gray Ice Water */
+.color70, .color70   > * { color: #6F9DBE !important; } /* Perwinkle */
  > * 
