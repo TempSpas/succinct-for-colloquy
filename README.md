@@ -10,7 +10,8 @@ I changed the original Succinct for [Colloquy](http://colloquy.info/) theme with
 
 Default:
 
-![Screehnshot](Default.png)
+
+<img src="https://raw.githubusercontent.com/TempSpas/succinct-for-colloquy/master/Default.png" alt="Screenshot" />
 
 Solarized:
 
