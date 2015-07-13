@@ -31,7 +31,7 @@ If you're finding this theme by google and don't really know what you're doing, 
 exactly like me when I found the original. Steps to download:
 
 1. [Download this file](https://github.com/TempSpas/succinct-for-colloquy/archive/master.zip) and unzip it.
-2. Move all the contents of the folder except "Succinct.colloquyStyle" to the trash. These are just things like the screenshots I use, the Readme file, the changelog; you don't need them to use the style.
+2. Move all the contents of the folder except "Succinct.colloquyStyle" to the trash. (These are just things like the screenshots, the changelog, this file; you don't need them to use the style).
 3. Open an additional Finder window and, from the Finder's "Go" menu, select
    "Go to Folder..." . In the dialog pane that appears, enter:
      ```/Library/Application Support/Colloquy/Styles``` (If this fails, type ```/Library/Application Support``` and
