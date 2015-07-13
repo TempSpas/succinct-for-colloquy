@@ -36,7 +36,7 @@ need them.
 3. Open an additional Finder window and, from the Finder's "Go" menu, select
    "Go to Folder..." . In the dialog pane that appears, enter:
      ```/Library/Application Support/Colloquy/Styles``` (If this fails, type ```/Library/Application Support``` and
-     create a folder called "Colloquy". Inside, that create one called "Styles").
+     create a folder called "Colloquy". Inside that, create one called "Styles").
 4. Drag "Succinct.colloquyStyle" there.
 5. Type ```/reload styles``` into Colloquy. (If this fails, restart Colloquy).
 
