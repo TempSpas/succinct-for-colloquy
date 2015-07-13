@@ -14,7 +14,6 @@ Default:
 
 Solarized:
 
-![Screenshot](Solarized.png)
 <img src="https://raw.githubusercontent.com/TempSpas/succinct-for-colloquy/master/Solarized.png" alt="Screenshot" />
 
 Solarized Dark:
