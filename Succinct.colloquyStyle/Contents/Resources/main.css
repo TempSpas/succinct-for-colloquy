@@ -309,8 +309,7 @@ a:focus {
 /* Color your own name will appear as */
 .colorself, .colorself a {
     color: #A90101 !important;
-    /*color: #247E70;*/ /* Green */
-  /*font-weight: bold;    */
+    /*font-weight: bold;    */
 }
 
 /* These are all the possible colors that other people */
@@ -327,7 +326,7 @@ a:focus {
 .color8, .color8  > * { color: #005381 !important; } /* Dark blue grayish */
 .color9, .color9  > * { color: #0D813D !important; } /* Green */
 .color10, .color10   > * { color: #F7A700 !important; } /* Orange */
-.color11, .color11   > * { color: #9966FF !important; } /* Purplish periwnkle */
+.color11, .color11   > * { color: #9966FF !important; } /* Purplish periwinkle */
 .color12, .color12   > * { color: #0099CC !important; } /* Nice middle blue */
 .color13, .color13   > * { color: #670000 !important; } /* Darker brownish red */
 .color14, .color14   > * { color: #A31B00 !important; } /* Brownish red */
@@ -386,5 +385,5 @@ a:focus {
 .color67, .color67   > * { color: #991441 !important; } /* Darker magenta */
 .color68, .color68   > * { color: #585858 !important; } /* Gray */
 .color69, .color69   > * { color: #678090 !important; } /* Gray Ice Water */
-.color70, .color70   > * { color: #6F9DBE !important; } /* Perwinkle */
+.color70, .color70   > * { color: #6F9DBE !important; } /* Periwinkle */
  > * 
