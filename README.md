@@ -61,7 +61,7 @@ and enter: ```/Library/Application Support/Colloquy/Styles```
 the folder labeled "Variants."
 5. The CSS files inside this folder are clearly labeled and ready to edit.
 
-I used [this website](http://www.w3schools.com/tags/ref_colorpicker.asp) to pick colors, very helptful.
+I used [this website](http://www.w3schools.com/tags/ref_colorpicker.asp) to pick colors, very helptful. To view the changes you make in Colloquy, type ```/reload style```.
 
 ----------------
 
