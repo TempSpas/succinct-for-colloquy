@@ -23,7 +23,7 @@ img {
 }
 
 a:link {
-  /* This makes all names the same color: */
+  /* This makes all names in events the same color: */
   color: #0033cc;
   /* Don't let long links break the layout */
   display: inline-block;
