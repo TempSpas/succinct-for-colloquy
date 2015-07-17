@@ -25,8 +25,9 @@ Solarized Dark:
 <img src="https://raw.githubusercontent.com/TempSpas/succinct-for-colloquy/master/Dark.png" alt="Screenshot" />
 
 Note: Because of the plethora of colors possible for nicknames, some may not look right
-on certain themes. It's a work in progress, I'm still going through and changing them
-to fit each one just right. Each variant's CSS has all of the colors labeled if you'd like to seek out and change any you spot that don't fit.
+on certain themes. It's a work in progress; I'm still changing them as I notice them
+to fit each one just right. Each variant's CSS has all of the colors labeled if you'd like
+to seek out and change any you spot that don't fit.
 
 Download & Install Instructions:
 --------------------------------
@@ -61,7 +62,7 @@ and enter: ```/Library/Application Support/Colloquy/Styles```
 the folder labeled "Variants."
 5. The CSS files inside this folder are clearly labeled and ready to edit.
 
-I used [this website](http://www.w3schools.com/tags/ref_colorpicker.asp) to pick colors, very helptful. To view the changes you make in Colloquy, simply type ```/reload style```.
+I used [this website](http://www.w3schools.com/tags/ref_colorpicker.asp) to pick colors, very helpful. To view the changes you make in Colloquy, simply type ```/reload style```.
 
 ----------------
 
