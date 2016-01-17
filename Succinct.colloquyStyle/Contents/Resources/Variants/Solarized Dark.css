@@ -134,6 +134,8 @@ a:focus {
 }
 /* end add */
 
+/* This determines the color of the background in */
+/* messages containing highlight words. */
 .message--highlight {
   background-color: #424444; /* 001600 */
 }
