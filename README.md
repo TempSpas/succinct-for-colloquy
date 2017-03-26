@@ -5,7 +5,7 @@ Three reasons to love Succinct
 2. Emphasizes what you need.
 3. De-emphasizes what you don’t.
 
-Succinct is a theme for the [Colloquy IRC client](http://colloquy.info/) for Mac OS X. The goal of this fork is to add some color and appearance tweaks of my own, reducing contrast and improving chat room readability. Changes to usability include:
+Succinct is a theme for the [Colloquy IRC client](http://colloquy.info/) for Mac OS X. (NOTE: Textual theme being worked on here: <https://github.com/TempSpas/textual-sulaco>) The goal of this fork is to add some color and appearance tweaks of my own, reducing contrast and improving chat room readability. Changes to usability include:
 * Unique nickname coloring (courtesy of [willasaywhat](https://github.com/willasaywhat))
 * Getting rid of text shadows
 * Member links and URLs maintaining color in chat events
