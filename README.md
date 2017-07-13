@@ -1,4 +1,4 @@
-**NOTE:** Due to Colloquy not having received an update since 2014, I will no longer actively maintain this theme. A version of the theme for the Textual IRC client is being worked on here: <https://github.com/TempSpas/textual-sulaco>.
+**NOTE:** Due to Colloquy not having received an update since 2014, I will no longer actively maintain this theme. A version of the theme for the Textual IRC client is being worked on here: <https://github.com/TempSpas/textual-succinct>.
 
 Three reasons to love Succinct
 ------------------------------
